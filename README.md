@@ -7,6 +7,7 @@
 |`test-[]`|👩‍💻 Benchmark internal software|
 |`run-[]`|🏃‍♀️ Run external software|
 |`[]-paper`|✍ Research paper for a project|
+|`REORG*`|🌱 Repository reorganization|
 
 ### 📖 Frequently Used Repositories
 | Repository | Category |
@@ -25,4 +26,5 @@ https://github.com/xiangzhu/rss
 GitHub repos to be repurposed ASAP
 https://github.com/xiangzhu/REORG1
 https://github.com/xiangzhu/REORG2
+https://github.com/xiangzhu/REORG3
 -->
