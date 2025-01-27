@@ -1,16 +1,23 @@
-## Hi there 👋
+## 🗂 My GitHub Repository Index Page
+
+### 📔 Repository Naming Guidelines
+| Name | Description |
+| :--- | :--- |
+|`[]`|🏗 A standalone research project|
+|`test-[]`|👩‍💻 Benchmark internal software|
+|`run-[]`|🏃‍♀️ Run external software|
+|`[]-paper`|✍ Research paper for a project|
+
+### 📖 Frequently Used Repositories
 
 <!--
-**xiangzhu/xiangzhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+GitHub repos to be reactivated ASAP
+https://github.com/xiangzhu/rss-ash
+https://github.com/xiangzhu/ukbb-geneds
+https://github.com/xiangzhu/rss-h2g
+https://github.com/xiangzhu/rss
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+GitHub repos to be repurposed ASAP
+https://github.com/xiangzhu/REORG1
+https://github.com/xiangzhu/REORG2
 -->
