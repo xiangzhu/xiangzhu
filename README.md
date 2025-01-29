@@ -4,7 +4,7 @@
 | Name | Description |
 | :--- | :--- |
 |`[]`|🏗 A standalone research project|
-|`test-[]`|👩‍💻 Benchmark internal software|
+|`test-[]`|👩‍💻 Test internal software|
 |`run-[]`|🏃‍♀️ Run external software|
 |`[]-paper`|✍ Research paper for a project|
 |`REORG*`|🌱 Repository reorganization|
@@ -13,7 +13,7 @@
 | Repository | Category |
 | :--- | :--- |
 |[`notebook`](https://github.com/xiangzhu/notebook) [`sandbox`](https://github.com/xiangzhu/sandbox)|📚 Personal commonplace books |
-|[`sumstats`](https://github.com/xiangzhu/sumstats) [`atlas`](https://github.com/xiangzhu/atlas)|🗺 Research data catalogs|
+|[`sumstats`](https://github.com/xiangzhu/sumstats) [`atlas`](https://github.com/xiangzhu/atlas)|🗺 Research resource catalogs|
 |[`cv`](https://github.com/xiangzhu/cv) [`paper`](https://github.com/xiangzhu/paper) [`eval`](https://github.com/xiangzhu/eval)|⏱ Career growth trackers|
 
 <!--
