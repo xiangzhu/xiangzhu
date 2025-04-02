@@ -19,7 +19,6 @@
 
 <!--
 GitHub repos to be reactivated ASAP
-https://github.com/xiangzhu/rss-ash
 https://github.com/xiangzhu/ukbb-geneds
 https://github.com/xiangzhu/rss-h2g
 https://github.com/xiangzhu/rss
