@@ -21,7 +21,7 @@
 GitHub repos to be reactivated ASAP
 https://github.com/xiangzhu/ukbb-geneds
 https://github.com/xiangzhu/rss-h2g
-https://github.com/xiangzhu/rss
+https://github.com/xiangzhu/rss-ash
 
 GitHub repos to be repurposed ASAP
 -->
