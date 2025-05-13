@@ -15,7 +15,7 @@
 |[`note`](https://github.com/xiangzhu/note) [`roadmap`](https://github.com/xiangzhu/roadmap) |📚 Personal commonplace books |
 |[`xzTools`](https://github.com/xiangzhu/xzTools) [`xzScripts`](https://github.com/xiangzhu/xzScripts) |🛠 Commonly used functions & scripts |
 |[`sumstats`](https://github.com/xiangzhu/sumstats) [`atlas`](https://github.com/xiangzhu/atlas) |🗺 Research data & resource catalogs |
-|[`cv`](https://github.com/xiangzhu/cv) [`plan`](https://github.com/xiangzhu/plan) [`eval`](https://github.com/xiangzhu/eval) |⏱ Career & personal growth trackers |
+|[`cv`](https://github.com/xiangzhu/cv) [`eval`](https://github.com/xiangzhu/eval) |⏱ Career & personal growth trackers |
 
 <!--
 GitHub repos to be reactivated ASAP
