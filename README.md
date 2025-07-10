@@ -12,7 +12,7 @@
 ### 📖 Frequently Used Repositories
 | Repository | Category |
 | :--- | :--- |
-|[`notebook`](https://github.com/xiangzhu/notebook) [`roadmap`](https://github.com/xiangzhu/roadmap) |📚 Personal commonplace books |
+|[`notebook`](https://github.com/xiangzhu/notebook) [`paper`](https://github.com/xiangzhu/paper) |📚 Personal commonplace books |
 |[`xzTools`](https://github.com/xiangzhu/xzTools) [`xzScripts`](https://github.com/xiangzhu/xzScripts) |🛠 Commonly used functions & scripts |
 |[`sumstats`](https://github.com/xiangzhu/sumstats) [`ukb`](https://github.com/xiangzhu/ukb) [`aou`](https://github.com/xiangzhu/aou) |🗺 Research data & resource catalogs |
 <!--|[`cv`](https://github.com/xiangzhu/cv) [`eval`](https://github.com/xiangzhu/eval) |⏱ Career & personal growth trackers |-->
